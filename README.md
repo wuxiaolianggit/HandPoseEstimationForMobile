@@ -1,6 +1,8 @@
 # HandPoseEstimationForMobile
 tensorflow训练手21点，heatmap
 
+在此项目上修改而来https://github.com/edvardHua/PoseEstimationForMobile
+
 # 数据
 
 下载GANeratedDataset: https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm ,解压之后目录为 GANeratedHands_Release
