@@ -12,7 +12,7 @@ GANeratedHands_Release与training、trained同一目录
 
 GANHands_test.json 、 GANHands_train.json 放在与training、 trained同一目录
 
-其中如果要自行生成json文件，可以参考anno_to_json.py 我是用 https://github.com/Ninebell/GaneratedHandsForReal_TIME 里的.ini文件生成的
+其中如果要自行生成json文件，可以参考anno_to_json.py, anno文件格式是 https://github.com/Ninebell/GaneratedHandsForReal_TIME 里的RegNet\train_path_list.ini
 
 # 训练 
 
